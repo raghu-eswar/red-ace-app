@@ -1,23 +1,23 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "helloworld",
+    "name": "RedAceApp",
+    "slug": "redaceapp",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-    "scheme": "helloworld",
+    "scheme": "redaceapp",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.helloworld"
+      "bundleIdentifier": "red.ace.app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.helloworld"
+      "package": "red.ace.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
